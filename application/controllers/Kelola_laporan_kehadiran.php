@@ -1,4 +1,5 @@
 <?php
+defined('BASEPATH') or exit('No direct script access allowed');
 
 class kelola_laporan_kehadiran extends CI_Controller
 {
