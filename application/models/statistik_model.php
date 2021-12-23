@@ -1,6 +1,7 @@
 <?php
+defined('BASEPATH') or exit('No direct script access allowed');
 
-class statistik_model extends CI_model
+class Statistik_model extends CI_model
 {
 
 

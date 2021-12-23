@@ -1,6 +1,7 @@
 <?php
+defined('BASEPATH') or exit('No direct script access allowed');
 
-class kelola_laporan_kehadiran_model extends CI_model
+class Kelola_laporan_kehadiran_model extends CI_model
 {
 
     //keloladata absensi

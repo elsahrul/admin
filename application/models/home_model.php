@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 
-class home_model extends CI_Model
+class Home_model extends CI_Model
 {
 
     // fungsi check login

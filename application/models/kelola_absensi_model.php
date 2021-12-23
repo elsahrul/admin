@@ -1,6 +1,7 @@
 <?php
+defined('BASEPATH') or exit('No direct script access allowed');
 
-class kelola_absensi_model extends CI_model
+class Kelola_absensi_model extends CI_model
 {
     public function getMasuk()
     {
