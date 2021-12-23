@@ -1,0 +1,36 @@
+.badge {
+	margin-left: 2px;
+}
+ 
+/* body {
+	margin: 30px 0 0;
+	padding: 0;
+	font-family: 'Source Sans Pro', sans-serif;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.container {
+	padding: 0;
+	margin: auto;
+	display: grid;
+	grid-template-columns: repeat(8,1fr);
+	margin: 5px 15px;
+	gap:20px;
+	position: relative;
+}
+
+.card {
+	width: 100%;
+	height: auto;
+	grid-column: span 8;
+	margin: 50px 0;
+    padding: 50px;
+	border-radius: 15px;
+	position: relative;
+	box-shadow: 0 10px 10px rgba(0,0,0,.1);
+
+} */
+
+
